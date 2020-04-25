@@ -1,0 +1,2009 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:400|Open+Sans:600,400,300|Trebuchet+MS:700,400');
+
+
+/* ANIMA screen - custom-size1 */
+.font-class-1 {
+  font-family         : Open Sans, Helvetica, Arial, serif;
+  font-style          : normal;
+  font-weight         : 600;
+}
+.font-class-2 {
+  font-family         : Roboto Condensed, Helvetica, Arial, serif;
+  font-style          : normal;
+  font-weight         : 400;
+}
+.font-class-3 {
+  font-family         : Open Sans, Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  font-style          : normal;
+  font-weight         : 400;
+  letter-spacing      : 0.15px;
+  line-height         : 24.0px;
+}
+.font-class-4 {
+  font-family         : Open Sans, Helvetica, Arial, serif;
+  font-style          : normal;
+  font-weight         : 400;
+}
+.font-class-5 {
+  color               : var(--auto-palette-color-2);
+  font-family         : Open Sans Light, Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  font-style          : normal;
+  font-weight         : 300;
+}
+:root {
+  --auto-palette-color-1: rgba(255,255,255,1.0);
+  --auto-palette-color-2: rgba(32,32,32,1.0);
+  --auto-palette-color-3: rgba(239,239,239,1.0);
+  --auto-palette-color-4: rgba(117,78,249,1.0);
+  --auto-palette-color-5: rgba(243,243,243,1.0);
+}
+.custom-size1-aAgWc4 .header4-N4FmQf .sosial-icon5-PDY6Jy .linkedin-icon21-PK7rlN .group801-QIVEu8 .auto-flex-Ao3UFO {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  margin-left         : 0px;
+  margin-top          : 0.0px;
+  position            : relative;
+  width               : 4px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .footer0-ZGWAgS .footer1-U0u37T .sosial-icon3-5Upv7k .linkedin-icon2-g4NzHO .group80-zhzz9A .auto-flex-PwTux6 {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  margin-left         : 0px;
+  margin-top          : 0.0px;
+  position            : relative;
+  width               : 6px;
+}
+.custom-size1-aAgWc4 .header4-N4FmQf .image1-IOjyxa .image-and-text1-lj4ZVJ {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 352px;
+  justify-content     : flex-start;
+  left                : 75px;
+  position            : absolute;
+  top                 : 81px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .header4-N4FmQf .image1-IOjyxa .image-and-text1-lj4ZVJ .image08-ggMlSu {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 352px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 352px;
+}
+.custom-size1-aAgWc4 .header4-N4FmQf .image1-IOjyxa .image-and-text1-lj4ZVJ .image08-ggMlSu .path31-7uF0Dc {
+  background-color    : rgba(0,0,0,0);
+  height              : 423px;
+  left                : -36px;
+  position            : absolute;
+  top                 : -36px;
+  transform           : rotate(0deg);
+  width               : 423px;
+}
+.custom-size1-aAgWc4 .header4-N4FmQf .image1-IOjyxa .image-and-text1-lj4ZVJ .image08-ggMlSu .mask-group121-dMo69t {
+  background-color    : rgba(255,255,255,0);
+  height              : 306px;
+  left                : 23px;
+  position            : absolute;
+  top                 : 23px;
+  transform           : rotate(0deg);
+  width               : 306px;
+}
+.custom-size1-aAgWc4 .header4-N4FmQf .image1-IOjyxa .image-and-text1-lj4ZVJ .image08-ggMlSu .mask-group121-dMo69t .a19-feature-ledew512h6002x0-DU13dJ {
+  background-color    : rgba(255,255,255,0);
+  height              : 600px;
+  left                : -113px;
+  position            : absolute;
+  top                 : -7px;
+  width               : 512px;
+}
+.custom-size1-aAgWc4 .header4-N4FmQf .image1-IOjyxa .image-and-text1-lj4ZVJ .image08-ggMlSu .mask-group121-dMo69t .rectangle31-mDqwRB {
+  background-color    : var(--auto-palette-color-4);
+  border-radius       : 200.0px;
+  height              : 306px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 306px;
+}
+.custom-size1-aAgWc4 .header4-N4FmQf .text21-Kxr9pu {
+  background-color    : rgba(255,255,255,0);
+  height              : 145px;
+  left                : 642px;
+  position            : absolute;
+  top                 : 360px;
+  transform           : rotate(0deg);
+  width               : 481px;
+}
+.custom-size1-aAgWc4 .header4-N4FmQf .text21-Kxr9pu .rectangle50-lo4mHP {
+  background-color    : rgba(255,255,255,0);
+  height              : 32px;
+  left                : 32px;
+  position            : absolute;
+  top                 : 45px;
+  width               : 449px;
+}
+.custom-size1-aAgWc4 .header4-N4FmQf .text21-Kxr9pu .ezhilraj1-LsQD4r {
+  background-color    : rgba(117,78,249,0);
+  height              : 116px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  width               : 473px;
+}
+.custom-size1-aAgWc4 .header4-N4FmQf .text21-Kxr9pu .software-developer2-ZIPsY8 {
+  background-color    : rgba(16,16,16,0);
+  color               : rgba(16,16,16,1.0);
+  font-family         : Open Sans, Helvetica, Arial, serif;
+  font-size           : 25.0px;
+  font-style          : normal;
+  font-weight         : 600;
+  height              : auto;
+  left                : 146px;
+  letter-spacing      : 0.25px;
+  line-height         : 25.0px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 116px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .header4-N4FmQf .text21-Kxr9pu .path43-zZ1MH9 {
+  background-color    : rgba(255,255,255,0);
+  height              : 14px;
+  left                : 254px;
+  position            : absolute;
+  top                 : 51px;
+  width               : 17px;
+}
+.custom-size1-aAgWc4 .header4-N4FmQf .menu-text3-sVkH8f {
+  background-color    : rgba(255,255,255,0);
+  height              : 47px;
+  left                : 1022px;
+  pointer-events      : auto;
+  position            : absolute;
+  top                 : 70px;
+  transform           : rotate(0deg);
+  transition          : all 0.3s ease-in-out;
+  width               : 202px;
+}
+.custom-size1-aAgWc4 .header4-N4FmQf .menu-text3-sVkH8f:hover {
+  transform           : scale(0.9);
+}
+.custom-size1-aAgWc4 .header4-N4FmQf .menu-text3-sVkH8f .button04-Ln11ON {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 47px;
+  justify-content     : flex-start;
+  left                : 0px;
+  position            : relative;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .header4-N4FmQf .menu-text3-sVkH8f .button04-Ln11ON .button05-wFoA7Z {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 47px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 202px;
+}
+.custom-size1-aAgWc4 .header4-N4FmQf .menu-text3-sVkH8f .button04-Ln11ON .button05-wFoA7Z .button06-QTBf4J {
+  background-color    : rgba(117,78,249,0);
+  border-radius       : 24.0px;
+  height              : 137px;
+  left                : -45px;
+  position            : absolute;
+  top                 : -40px;
+  transform           : rotate(0deg);
+  width               : 292px;
+}
+.custom-size1-aAgWc4 .header4-N4FmQf .menu-text3-sVkH8f .button04-Ln11ON .button05-wFoA7Z .download-cv1-37yAig {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  font-size           : 15.0px;
+  height              : auto;
+  left                : 45px;
+  line-height         : 15.0px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 16px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .header4-N4FmQf .be-creative4-RnlrJR {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  font-size           : 16.0px;
+  height              : auto;
+  left                : 140px;
+  line-height         : 16.0px;
+  position            : absolute;
+  text-align          : left;
+  top                 : 803px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .header4-N4FmQf .sosial-icon5-PDY6Jy {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  left                : 1290px;
+  min-height          : 344px;
+  position            : absolute;
+  top                 : 292px;
+  transform           : rotate(0deg);
+  width               : 87px;
+}
+.custom-size1-aAgWc4 .header4-N4FmQf .sosial-icon5-PDY6Jy .facebook-icon01-pkRUNw {
+  align-items         : center;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 19px;
+  justify-content     : flex-start;
+  margin-left         : 5.33px;
+  margin-top          : 29px;
+  min-width           : 10px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .header4-N4FmQf .sosial-icon5-PDY6Jy .facebook-icon01-pkRUNw .f101-Fn8MOB {
+  background-color    : rgba(117,78,249,0);
+  flex-shrink         : 0;
+  height              : 19px;
+  margin-left         : 0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 10px;
+}
+.custom-size1-aAgWc4 .header4-N4FmQf .sosial-icon5-PDY6Jy .twitter-icon11-I4aIbR {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 12px;
+  justify-content     : flex-start;
+  margin-left         : 2.32px;
+  margin-top          : 27px;
+  min-width           : 15px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .header4-N4FmQf .sosial-icon5-PDY6Jy .twitter-icon11-I4aIbR .group701-odnp7L {
+  align-items         : center;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 12px;
+  justify-content     : center;
+  min-width           : 15px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .header4-N4FmQf .sosial-icon5-PDY6Jy .twitter-icon11-I4aIbR .group701-odnp7L .path14801-BtKDwo {
+  background-color    : rgba(117,78,249,0);
+  flex-shrink         : 0;
+  height              : 12px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 15px;
+}
+.custom-size1-aAgWc4 .header4-N4FmQf .sosial-icon5-PDY6Jy .linkedin-icon21-PK7rlN {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 16px;
+  justify-content     : flex-start;
+  margin-left         : 2.32px;
+  margin-top          : 26px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .header4-N4FmQf .sosial-icon5-PDY6Jy .linkedin-icon21-PK7rlN .group801-QIVEu8 {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 16px;
+  justify-content     : flex-start;
+  min-width           : 17px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .header4-N4FmQf .sosial-icon5-PDY6Jy .linkedin-icon21-PK7rlN .group801-QIVEu8 .auto-flex-Ao3UFO .rectangle1501-kooFC0 {
+  background-color    : var(--auto-palette-color-4);
+  flex-shrink         : 0;
+  height              : 11px;
+  margin-left         : 0.2px;
+  margin-top          : 1px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 4px;
+}
+.custom-size1-aAgWc4 .header4-N4FmQf .sosial-icon5-PDY6Jy .linkedin-icon21-PK7rlN .group801-QIVEu8 .path14911-5t4BYi {
+  align-self          : flex-end;
+  background-color    : rgba(117,78,249,0);
+  flex-shrink         : 0;
+  height              : 11px;
+  margin-left         : 1px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 11px;
+}
+.custom-size1-aAgWc4 .header4-N4FmQf .sosial-icon5-PDY6Jy .linkedin-icon21-PK7rlN .group801-QIVEu8 .auto-flex-Ao3UFO .path15021-lzN8ta {
+  background-color    : rgba(117,78,249,0);
+  flex-shrink         : 0;
+  height              : 4px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 4px;
+}
+.custom-size1-aAgWc4 .header4-N4FmQf .sosial-icon5-PDY6Jy .line13-O7pgMx {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 55px;
+  margin-left         : 10.0px;
+  margin-top          : 69px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 1px;
+}
+.custom-size1-aAgWc4 .header4-N4FmQf .sosial-icon5-PDY6Jy .follow-me-on4-ZX46zW {
+  background-color    : rgba(117,78,249,0);
+  color               : var(--auto-palette-color-4);
+  flex-shrink         : 0;
+  font-size           : 18.0px;
+  height              : auto;
+  line-height         : 18.0px;
+  margin-left         : -60.5px;
+  min-height          : 26px;
+  min-width           : 157px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(90deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .what-i-give-you3-E3c9aa .group101-QbmoMt {
+  align-self          : flex-end;
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 461px;
+  margin-left         : 14px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 292px;
+}
+.custom-size1-aAgWc4 .what-i-give-you3-E3c9aa .group101-QbmoMt .rectangle20-PIVCiE {
+  background-color    : rgba(255,255,255,0);
+  height              : 506px;
+  left                : -22px;
+  position            : absolute;
+  top                 : -18px;
+  transform           : rotate(0deg);
+  width               : 337px;
+}
+.custom-size1-aAgWc4 .what-i-give-you3-E3c9aa .group101-QbmoMt .safe-box1-WAAo1q {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 56px;
+  justify-content     : flex-start;
+  left                : 118px;
+  position            : absolute;
+  top                 : 75px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .what-i-give-you3-E3c9aa .group101-QbmoMt .safe-box1-WAAo1q .group60-QuUGao {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 56px;
+  justify-content     : flex-start;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .what-i-give-you3-E3c9aa .group101-QbmoMt .safe-box1-WAAo1q .group60-QuUGao .group50-tVUy8I {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 56px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 56px;
+}
+.custom-size1-aAgWc4 .what-i-give-you3-E3c9aa .group101-QbmoMt .safe-box1-WAAo1q .group60-QuUGao .group50-tVUy8I .path1450-V98gZH {
+  background-color    : rgba(117,78,249,0);
+  height              : 56px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 56px;
+}
+.custom-size1-aAgWc4 .what-i-give-you3-E3c9aa .group101-QbmoMt .safe-box1-WAAo1q .group60-QuUGao .group50-tVUy8I .path1461-apSPjg {
+  background-color    : rgba(117,78,249,0);
+  height              : 35px;
+  left                : 11px;
+  position            : absolute;
+  top                 : 11px;
+  transform           : rotate(0deg);
+  width               : 35px;
+}
+.custom-size1-aAgWc4 .what-i-give-you3-E3c9aa .group101-QbmoMt .button2-79YF21 {
+  align-items         : flex-end;
+  background-color    : var(--auto-palette-color-4);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 30px;
+  justify-content     : flex-end;
+  left                : 86px;
+  min-width           : 120px;
+  padding             : 4.3px 26.0px;
+  position            : absolute;
+  top                 : 363px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .what-i-give-you3-E3c9aa .group101-QbmoMt .button2-79YF21 .learn-more11-QgNaNs {
+  background-color    : rgba(245,245,245,0);
+  color               : rgba(245,245,245,1.0);
+  flex-shrink         : 0;
+  font-size           : 11.0px;
+  height              : auto;
+  line-height         : 11.0px;
+  min-height          : 17px;
+  min-width           : 68px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .what-i-give-you3-E3c9aa .group101-QbmoMt .text3-Pbx26s {
+  align-items         : center;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  left                : 72px;
+  padding             : 3.0px 0;
+  position            : absolute;
+  top                 : 179px;
+  transform           : rotate(0deg);
+  width               : 150px;
+}
+.custom-size1-aAgWc4 .what-i-give-you3-E3c9aa .group101-QbmoMt .text3-Pbx26s .clean-work0-WBOZdl {
+  background-color    : rgba(32,32,32,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 18.0px;
+  height              : auto;
+  line-height         : 18.0px;
+  margin-left         : 11.0px;
+  min-height          : 26px;
+  min-width           : 101px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .what-i-give-you3-E3c9aa .group101-QbmoMt .text3-Pbx26s .all-i-want-to-have-client-setisfaction-this-is-my-aim11-FOe5Sj {
+  background-color    : rgba(32,32,32,0);
+  flex-shrink         : 0;
+  height              : 75px;
+  line-height         : 24.0px;
+  margin-top          : 6px;
+  min-height          : 75px;
+  opacity             : 0.5;
+  position            : relative;
+  text-align          : center;
+  transform           : rotate(0deg);
+  width               : 150px;
+}
+.custom-size1-aAgWc4 .what-i-give-you3-E3c9aa .group112-xLi44o {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 461px;
+  margin-left         : 14px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 292px;
+}
+.custom-size1-aAgWc4 .what-i-give-you3-E3c9aa .group112-xLi44o .bg02-K4QzeF {
+  background-color    : rgba(255,255,255,0);
+  height              : 506px;
+  left                : -22px;
+  position            : absolute;
+  top                 : -18px;
+  transform           : rotate(0deg);
+  width               : 337px;
+}
+.custom-size1-aAgWc4 .what-i-give-you3-E3c9aa .group112-xLi44o .icon1-xK6tvT {
+  background-color    : rgba(255,255,255,0);
+  height              : 51px;
+  left                : 119px;
+  position            : absolute;
+  top                 : 80px;
+  transform           : rotate(0deg);
+  width               : 54px;
+}
+.custom-size1-aAgWc4 .what-i-give-you3-E3c9aa .group112-xLi44o .icon1-xK6tvT .path50-bzZR4C {
+  background-color    : rgba(117,78,249,0);
+  height              : 51px;
+  left                : 0px;
+  position            : absolute;
+  top                 : -0px;
+  transform           : rotate(0deg);
+  width               : 54px;
+}
+.custom-size1-aAgWc4 .what-i-give-you3-E3c9aa .group112-xLi44o .icon1-xK6tvT .path1131-aOzjok {
+  background-color    : rgba(252,252,252,0);
+  height              : 37px;
+  left                : 5px;
+  position            : absolute;
+  top                 : 3px;
+  transform           : rotate(0deg);
+  width               : 35px;
+}
+.custom-size1-aAgWc4 .what-i-give-you3-E3c9aa .group112-xLi44o .icon1-xK6tvT .path1142-FpGtYH {
+  background-color    : rgba(254,254,254,0);
+  height              : 29px;
+  left                : 37px;
+  position            : absolute;
+  top                 : 11px;
+  transform           : rotate(0deg);
+  width               : 11px;
+}
+.custom-size1-aAgWc4 .what-i-give-you3-E3c9aa .group112-xLi44o .icon1-xK6tvT .path1373-TMjEMp {
+  background-color    : rgba(117,78,249,0);
+  height              : 15px;
+  left                : 14px;
+  position            : absolute;
+  top                 : 15px;
+  transform           : rotate(0deg);
+  width               : 18px;
+}
+.custom-size1-aAgWc4 .what-i-give-you3-E3c9aa .group112-xLi44o .button21-RH5LAI {
+  align-items         : flex-end;
+  background-color    : var(--auto-palette-color-4);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 30px;
+  justify-content     : flex-end;
+  left                : 86px;
+  min-width           : 120px;
+  padding             : 4.3px 26.0px;
+  position            : absolute;
+  top                 : 363px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .what-i-give-you3-E3c9aa .group112-xLi44o .button21-RH5LAI .learn-more12-seOVez {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 11.0px;
+  height              : auto;
+  line-height         : 11.0px;
+  min-height          : 17px;
+  min-width           : 68px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .what-i-give-you3-E3c9aa .group112-xLi44o .text31-pT0ete {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  left                : 72px;
+  padding             : 3.0px 0;
+  position            : absolute;
+  top                 : 177px;
+  transform           : rotate(0deg);
+  width               : 157px;
+}
+.custom-size1-aAgWc4 .what-i-give-you3-E3c9aa .group112-xLi44o .text31-pT0ete .client-setisfaction0-6j2LC8 {
+  align-self          : flex-end;
+  background-color    : rgba(32,32,32,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 18.0px;
+  height              : auto;
+  line-height         : 18.0px;
+  min-height          : 26px;
+  min-width           : 157px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .what-i-give-you3-E3c9aa .group112-xLi44o .text31-pT0ete .all-i-want-to-have-client-setisfaction-this-is-my-aim12-IbTM3O {
+  background-color    : rgba(32,32,32,0);
+  flex-shrink         : 0;
+  height              : 70px;
+  line-height         : 24.0px;
+  margin-top          : 6px;
+  min-height          : 70px;
+  opacity             : 0.5;
+  position            : relative;
+  text-align          : center;
+  transform           : rotate(0deg);
+  width               : 150px;
+}
+.custom-size1-aAgWc4 .header4-N4FmQf {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 871px;
+  margin-left         : -0.5px;
+  margin-top          : -41px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 1390px;
+}
+.custom-size1-aAgWc4 .header4-N4FmQf .background01-5WjD3f {
+  background-color    : rgba(255,255,255,0);
+  height              : 871px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 1390px;
+}
+.custom-size1-aAgWc4 .header4-N4FmQf .background01-5WjD3f .bg03-eD5KSJ {
+  background-color    : var(--auto-palette-color-4);
+  height              : 829px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 42px;
+  transform           : rotate(0deg);
+  width               : 450px;
+}
+.custom-size1-aAgWc4 .header4-N4FmQf .background01-5WjD3f .bg11-bW117L {
+  background-color    : var(--auto-palette-color-1);
+  height              : 729px;
+  left                : 684px;
+  position            : absolute;
+  top                 : 142px;
+  transform           : rotate(0deg);
+  width               : 685px;
+}
+.custom-size1-aAgWc4 .header4-N4FmQf .background01-5WjD3f .bg21-dJdKeZ {
+  background-color    : rgba(255,255,255,0);
+  height              : 871px;
+  left                : 445px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 944px;
+}
+.custom-size1-aAgWc4 .header4-N4FmQf .image1-IOjyxa {
+  background-color    : rgba(255,255,255,0);
+  height              : 513px;
+  left                : 75px;
+  position            : absolute;
+  top                 : 209px;
+  transform           : rotate(0deg);
+  width               : 513px;
+}
+.custom-size1-aAgWc4 .header4-N4FmQf .image1-IOjyxa .group102-osNivx {
+  align-items         : center;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 513px;
+  justify-content     : flex-start;
+  left                : 0px;
+  min-width           : 513px;
+  padding             : 0 0.4px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .header4-N4FmQf .image1-IOjyxa .group102-osNivx .path51-C7CFHH {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 495px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 495px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .portfolio2-S3Xsio .mask-group57-VlXCMp {
+  background-color    : rgba(255,255,255,0);
+  height              : 352px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 872px;
+  transform           : rotate(0deg);
+  width               : 352px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .portfolio2-S3Xsio .mask-group57-VlXCMp .image04-sAqZ6G {
+  background-color    : rgba(255,255,255,0);
+  height              : 372px;
+  left                : -10px;
+  position            : absolute;
+  top                 : -10px;
+  width               : 372px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .portfolio2-S3Xsio .mask-group57-VlXCMp .rectangle111-wYA4LZ {
+  background-color    : var(--auto-palette-color-3);
+  height              : 352px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 352px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .portfolio2-S3Xsio .mask-group68-mSxW24 {
+  background-color    : rgba(255,255,255,0);
+  height              : 352px;
+  left                : 368px;
+  position            : absolute;
+  top                 : 872px;
+  transform           : rotate(0deg);
+  width               : 352px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .portfolio2-S3Xsio .mask-group68-mSxW24 .image05-4AM9FK {
+  background-color    : rgba(255,255,255,0);
+  height              : 368px;
+  left                : -8px;
+  position            : absolute;
+  top                 : -8px;
+  width               : 368px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .portfolio2-S3Xsio .mask-group68-mSxW24 .rectangle121-kg9Zaq {
+  background-color    : var(--auto-palette-color-3);
+  height              : 352px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 352px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .portfolio2-S3Xsio .mask-group79-Q4IlWy {
+  background-color    : rgba(255,255,255,0);
+  height              : 352px;
+  left                : 736px;
+  position            : absolute;
+  top                 : 872px;
+  transform           : rotate(0deg);
+  width               : 352px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .portfolio2-S3Xsio .mask-group79-Q4IlWy .image06-j0K1tH {
+  background-color    : rgba(255,255,255,0);
+  height              : 368px;
+  left                : -8px;
+  position            : absolute;
+  top                 : -8px;
+  width               : 368px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .portfolio2-S3Xsio .mask-group79-Q4IlWy .rectangle131-ygt4HB {
+  background-color    : var(--auto-palette-color-3);
+  height              : 352px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 352px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .portfolio2-S3Xsio .mask-group810-GflaUF {
+  background-color    : rgba(255,255,255,0);
+  height              : 352px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 504px;
+  transform           : rotate(0deg);
+  width               : 720px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .portfolio2-S3Xsio .mask-group810-GflaUF .image07-s0B3t2 {
+  background-color    : rgba(255,255,255,0);
+  height              : 453px;
+  left                : -9px;
+  position            : absolute;
+  top                 : -39px;
+  width               : 755px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .portfolio2-S3Xsio .mask-group810-GflaUF .rectangle91-EmaGO2 {
+  background-color    : var(--auto-palette-color-3);
+  height              : 352px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 720px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .portfolio2-S3Xsio .hover11-ODOStS {
+  background-color    : rgba(117,78,249,0);
+  height              : 352px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 504px;
+  transform           : rotate(0deg);
+  width               : 720px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .portfolio2-S3Xsio .portfolio12-nJJW4k {
+  background-color    : rgba(243,243,243,0);
+  color               : var(--auto-palette-color-5);
+  font-family         : Trebuchet MS, Helvetica, Arial, serif;
+  font-size           : 35.0px;
+  font-style          : normal;
+  font-weight         : 400;
+  height              : auto;
+  left                : 301px;
+  letter-spacing      : 0.00px;
+  line-height         : 24.0px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 608px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .portfolio2-S3Xsio .expand13-dxoqqS {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 24px;
+  justify-content     : flex-start;
+  left                : 677px;
+  position            : absolute;
+  top                 : 816px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .portfolio2-S3Xsio .expand13-dxoqqS .group10-7NmmaE {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 24px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 24px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .portfolio2-S3Xsio .expand13-dxoqqS .group10-7NmmaE .path1430-LU6GM7 {
+  background-color    : rgba(243,243,243,0);
+  height              : 24px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 24px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .portfolio2-S3Xsio .expand13-dxoqqS .group10-7NmmaE .path1441-ol8knW {
+  background-color    : rgba(243,243,243,0);
+  height              : 9px;
+  left                : 14px;
+  position            : absolute;
+  top                 : 14px;
+  transform           : rotate(0deg);
+  width               : 9px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .portfolio2-S3Xsio .expand13-dxoqqS .group10-7NmmaE .path1452-lKHA2A {
+  background-color    : rgba(243,243,243,0);
+  height              : 9px;
+  left                : 4px;
+  position            : absolute;
+  top                 : 4px;
+  transform           : rotate(0deg);
+  width               : 9px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .portfolio2-S3Xsio .full-view14-FZUsyS {
+  background-color    : rgba(243,243,243,0);
+  color               : var(--auto-palette-color-5);
+  font-size           : 11.0px;
+  height              : auto;
+  left                : 623px;
+  line-height         : 24.0px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 822px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .portfolio2-S3Xsio .writing-paragraphs-takes-practice-but-what-should-students-write-about-good-paragraph-writing-prompts-allow-students-to-write-about-what-they-know-and-like-so-their-focus-can-be-on-the-writing-process-and-using-the-four-essential-elements15-qI9w7S {
+  background-color    : rgba(243,243,243,0);
+  color               : var(--auto-palette-color-5);
+  height              : auto;
+  left                : 128px;
+  opacity             : 0.5;
+  position            : absolute;
+  text-align          : center;
+  top                 : 647px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .what-i-give-you3-E3c9aa {
+  align-items         : flex-start;
+  align-self          : center;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 462px;
+  justify-content     : flex-start;
+  margin-top          : 85px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .what-i-give-you3-E3c9aa .group90-75hJ0o {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 461px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 292px;
+}
+.custom-size1-aAgWc4 .what-i-give-you3-E3c9aa .group90-75hJ0o .rectangle10-1n0yot {
+  background-color    : rgba(255,255,255,0);
+  height              : 506px;
+  left                : -22px;
+  position            : absolute;
+  top                 : -18px;
+  transform           : rotate(0deg);
+  width               : 337px;
+}
+.custom-size1-aAgWc4 .what-i-give-you3-E3c9aa .group90-75hJ0o .stopwatch1-IFQE9t {
+  background-color    : rgba(255,255,255,0);
+  height              : 60px;
+  left                : 116px;
+  position            : absolute;
+  top                 : 71px;
+  transform           : rotate(0deg);
+  width               : 60px;
+}
+.custom-size1-aAgWc4 .what-i-give-you3-E3c9aa .group90-75hJ0o .stopwatch1-IFQE9t .ellipse10-fZ10zF {
+  background-color    : rgba(32,32,32,0);
+  height              : 58px;
+  left                : 1px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 58px;
+}
+.custom-size1-aAgWc4 .what-i-give-you3-E3c9aa .group90-75hJ0o .stopwatch1-IFQE9t .path1431-DMoLkV {
+  background-color    : rgba(117,78,249,0);
+  height              : 60px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 60px;
+}
+.custom-size1-aAgWc4 .what-i-give-you3-E3c9aa .group90-75hJ0o .stopwatch1-IFQE9t .path1442-DPHYre {
+  background-color    : rgba(117,78,249,0);
+  height              : 14px;
+  left                : 20px;
+  position            : absolute;
+  top                 : 20px;
+  transform           : rotate(0deg);
+  width               : 14px;
+}
+.custom-size1-aAgWc4 .what-i-give-you3-E3c9aa .group90-75hJ0o .group32-EOD4z9 {
+  align-items         : center;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  left                : 72px;
+  min-height          : 105px;
+  padding             : 2.0px 0;
+  position            : absolute;
+  top                 : 180px;
+  transform           : rotate(0deg);
+  width               : 150px;
+}
+.custom-size1-aAgWc4 .what-i-give-you3-E3c9aa .group90-75hJ0o .group32-EOD4z9 .on-time0-oWf1fD {
+  background-color    : rgba(32,32,32,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 18.0px;
+  height              : auto;
+  line-height         : 18.0px;
+  margin-left         : 8.0px;
+  min-height          : 26px;
+  min-width           : 74px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .what-i-give-you3-E3c9aa .group90-75hJ0o .group32-EOD4z9 .all-i-want-to-have-client-setisfaction-this-is-my-aim1-9V5il6 {
+  background-color    : rgba(32,32,32,0);
+  flex-shrink         : 0;
+  height              : 68px;
+  line-height         : 22.0px;
+  margin-top          : 6px;
+  min-height          : 68px;
+  opacity             : 0.5;
+  position            : relative;
+  text-align          : center;
+  transform           : rotate(0deg);
+  width               : 150px;
+}
+.custom-size1-aAgWc4 .what-i-give-you3-E3c9aa .group90-75hJ0o .button3-TPJPvt {
+  align-items         : flex-end;
+  background-color    : var(--auto-palette-color-4);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 30px;
+  justify-content     : flex-end;
+  left                : 86px;
+  min-width           : 120px;
+  padding             : 4.3px 26.0px;
+  position            : absolute;
+  top                 : 363px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .what-i-give-you3-E3c9aa .group90-75hJ0o .button3-TPJPvt .learn-more1-cQ4xwC {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-size           : 11.0px;
+  height              : auto;
+  line-height         : 11.0px;
+  min-height          : 17px;
+  min-width           : 68px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .footer0-ZGWAgS .search-ber0-1qVdRU .search-ber2-dfyf68 {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 55px;
+  margin-top          : 80px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 567px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .footer0-ZGWAgS .search-ber0-1qVdRU .search-ber2-dfyf68 .search-ber01-bFdUru {
+  background-color    : rgba(255,255,255,0);
+  height              : 55px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 567px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .footer0-ZGWAgS .search-ber0-1qVdRU .search-ber2-dfyf68 .search-ber01-bFdUru .search-ber02-AxXtHd {
+  background-color    : rgba(255,255,255,0);
+  height              : 55px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 566px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .footer0-ZGWAgS .search-ber0-1qVdRU .search-ber2-dfyf68 .search-ber01-bFdUru .button1-omGE35 {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 55px;
+  justify-content     : flex-end;
+  left                : 383px;
+  min-width           : 184px;
+  padding             : 15.0px 63.0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .footer0-ZGWAgS .search-ber0-1qVdRU .search-ber2-dfyf68 .search-ber01-bFdUru .button1-omGE35 .hire-me1-ONcBmv {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-family         : Roboto Condensed, Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  font-style          : normal;
+  font-weight         : 400;
+  height              : auto;
+  letter-spacing      : 0.15px;
+  line-height         : 24.0px;
+  min-height          : 22px;
+  min-width           : 66px;
+  position            : relative;
+  text-align          : center;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .footer0-ZGWAgS .search-ber0-1qVdRU .search-ber2-dfyf68 .enter-your-email1-P1gzYR {
+  background-color    : rgba(24,24,24,0);
+  color               : rgba(24,24,24,1.0);
+  font-family         : Open Sans, Helvetica, Arial, serif;
+  font-size           : 12.0px;
+  font-style          : normal;
+  font-weight         : 400;
+  height              : auto;
+  left                : 20px;
+  letter-spacing      : 0.12px;
+  line-height         : 24.0px;
+  opacity             : 0.3;
+  position            : absolute;
+  text-align          : center;
+  top                 : 16px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .footer0-ZGWAgS .footer1-U0u37T {
+  align-items         : center;
+  background-color    : var(--auto-palette-color-4);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 160px;
+  justify-content     : flex-start;
+  margin-top          : 0px;
+  min-width           : 1366px;
+  padding             : 51.0px 139.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .footer0-ZGWAgS .footer1-U0u37T .text1-cnWmIO {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 20px;
+  justify-content     : flex-start;
+  margin-left         : 234px;
+  margin-top          : 4.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .footer0-ZGWAgS .footer1-U0u37T .text1-cnWmIO .about-me0-US8UVj {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  height              : auto;
+  margin-top          : -2.0px;
+  min-height          : 22px;
+  min-width           : 82px;
+  opacity             : 0.75;
+  position            : relative;
+  text-align          : center;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .footer0-ZGWAgS .footer1-U0u37T .text1-cnWmIO .portfolio1-rqB4lf {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  height              : auto;
+  margin-left         : 51px;
+  margin-top          : -2.0px;
+  min-height          : 22px;
+  min-width           : 74px;
+  opacity             : 0.75;
+  position            : relative;
+  text-align          : center;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .footer0-ZGWAgS .footer1-U0u37T .text1-cnWmIO .download-cv2-KhBswo {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  height              : auto;
+  margin-left         : 51px;
+  margin-top          : -2.0px;
+  min-height          : 22px;
+  min-width           : 108px;
+  opacity             : 0.75;
+  position            : relative;
+  text-align          : center;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .footer0-ZGWAgS .footer1-U0u37T .sosial-icon3-5Upv7k .linkedin-icon2-g4NzHO .group80-zhzz9A {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 23px;
+  justify-content     : flex-start;
+  min-width           : 24px;
+  padding             : 0.0px 0;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .footer0-ZGWAgS .footer1-U0u37T .sosial-icon3-5Upv7k .linkedin-icon2-g4NzHO .group80-zhzz9A .auto-flex-PwTux6 .rectangle150-bKGXxX {
+  background-color    : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  height              : 15px;
+  margin-left         : 0.3px;
+  margin-top          : 2px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 5px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .testimonial1-SiGx03 .text2-nlkzUp {
+  align-items         : center;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  left                : 386px;
+  min-height          : 121px;
+  padding             : 2.0px 0;
+  position            : absolute;
+  top                 : 432px;
+  transform           : rotate(0deg);
+  width               : 597px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .testimonial1-SiGx03 .text2-nlkzUp .writing-paragraphs-takes-practice-but-what-should-students-write-about-good-paragraph-writing-prompts-allow-students-to-write-about-what-they-know-and-like-so-their-focus-can-be-on-the-writing-process-and-using-the-four-essential-elements0-uumruI {
+  background-color    : rgba(32,32,32,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-family         : Open Sans, Helvetica, Arial, serif;
+  font-size           : 14.0px;
+  font-style          : normal;
+  font-weight         : 400;
+  height              : 69px;
+  letter-spacing      : 0.14px;
+  line-height         : 24.0px;
+  margin-top          : 21px;
+  min-height          : 69px;
+  opacity             : 0.5;
+  position            : relative;
+  text-align          : center;
+  transform           : rotate(0deg);
+  width               : 597px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .portfolio2-S3Xsio .mask-group46-8OHVE2 .rectangle101-ma7cZF {
+  background-color    : var(--auto-palette-color-3);
+  height              : 352px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 352px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .footer0-ZGWAgS {
+  align-items         : center;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  left                : 0px;
+  min-height          : 580px;
+  position            : absolute;
+  top                 : 1984px;
+  transform           : rotate(0deg);
+  width               : 1366px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .footer0-ZGWAgS .search-ber0-1qVdRU {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  margin-top          : 0px;
+  padding             : 100.0px 399.2px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 1366px;
+}
+.custom-size1-aAgWc4 {
+  align-items         : flex-start;
+  background-color    : var(--auto-palette-color-1);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  height              : auto;
+  justify-content     : flex-start;
+  min-height          : 4040px;
+  overflow            : hidden;
+  position            : relative;
+  width               : 1366.0px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .footer0-ZGWAgS .search-ber0-1qVdRU .hero-text1-Kqp6Zf {
+  align-items         : center;
+  align-self          : center;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : flex;
+  flex-direction      : column;
+  flex-shrink         : 0;
+  height              : auto;
+  justify-content     : flex-start;
+  margin-left         : 2.0px;
+  min-height          : 85px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 296px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .footer0-ZGWAgS .search-ber0-1qVdRU .hero-text1-Kqp6Zf .want-to-hire-me0-hGhJPg {
+  background-color    : rgba(32,32,32,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-family         : Open Sans, Helvetica, Arial, serif;
+  font-size           : 35.0px;
+  font-style          : normal;
+  font-weight         : 600;
+  height              : auto;
+  letter-spacing      : 0.35px;
+  line-height         : 24.0px;
+  min-height          : 49px;
+  min-width           : 306px;
+  position            : relative;
+  text-align          : center;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .footer0-ZGWAgS .search-ber0-1qVdRU .hero-text1-Kqp6Zf .if-you-like-my-work1-iWtL6a {
+  background-color    : rgba(32,32,32,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-family         : Open Sans, Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  font-style          : normal;
+  font-weight         : 400;
+  height              : auto;
+  letter-spacing      : 0.18px;
+  line-height         : 24.0px;
+  margin-top          : 0px;
+  min-height          : 26px;
+  min-width           : 180px;
+  opacity             : 0.5;
+  position            : relative;
+  text-align          : center;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .footer0-ZGWAgS .footer1-U0u37T .sosial-icon3-5Upv7k .twitter-icon1-oIG1hA .group70-xlh6j2 .path1480-xW6qxP {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 19px;
+  margin-top          : -0.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 23px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .footer0-ZGWAgS .footer1-U0u37T .sosial-icon3-5Upv7k .twitter-icon1-oIG1hA .group70-xlh6j2 {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 19px;
+  justify-content     : center;
+  min-width           : 23px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .footer0-ZGWAgS .footer1-U0u37T .sosial-icon3-5Upv7k .twitter-icon1-oIG1hA {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 19px;
+  justify-content     : flex-start;
+  margin-bottom       : 0.08px;
+  margin-left         : 29px;
+  min-width           : 23px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .footer0-ZGWAgS .footer1-U0u37T .sosial-icon3-5Upv7k .linkedin-icon2-g4NzHO {
+  align-items         : flex-start;
+  align-self          : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 23px;
+  justify-content     : flex-start;
+  margin-left         : 28px;
+  margin-top          : -0.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .footer0-ZGWAgS .footer1-U0u37T .sosial-icon3-5Upv7k .linkedin-icon2-g4NzHO .group80-zhzz9A .path1491-K8hWt4 {
+  align-self          : flex-end;
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 16px;
+  margin-left         : 2px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 16px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .footer0-ZGWAgS .footer1-U0u37T .sosial-icon3-5Upv7k .linkedin-icon2-g4NzHO .group80-zhzz9A .auto-flex-PwTux6 .path1502-AWA2eY {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 5px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 6px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 2564px;
+  margin-top          : 100px;
+  position            : relative;
+  width               : 1366px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .footer0-ZGWAgS .line22-4fPDeM {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 1px;
+  margin-top          : 0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 1095px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .testimonial1-SiGx03 {
+  background-color    : rgba(255,255,255,0);
+  height              : 771px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 1215px;
+  transform           : rotate(0deg);
+  width               : 1366px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .testimonial1-SiGx03 .bg01-pSNiTp {
+  background-color    : var(--auto-palette-color-1);
+  height              : 771px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 1366px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .testimonial1-SiGx03 .hero-text11-bx6OBs {
+  background-color    : rgba(255,255,255,0);
+  height              : 76px;
+  left                : 514px;
+  position            : absolute;
+  top                 : 100px;
+  transform           : rotate(0deg);
+  width               : 340px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .testimonial1-SiGx03 .hero-text11-bx6OBs .valuable-testimonial0-tzNsfI {
+  background-color    : rgba(32,32,32,0);
+  color               : var(--auto-palette-color-2);
+  font-size           : 35.0px;
+  height              : auto;
+  left                : 0px;
+  line-height         : 20.0px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 14px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .testimonial1-SiGx03 .hero-text11-bx6OBs .see-people-say-about-me1-zNPd9S {
+  background-color    : rgba(32,32,32,0);
+  color               : var(--auto-palette-color-2);
+  font-size           : 18.0px;
+  height              : auto;
+  left                : 63px;
+  line-height         : 20.0px;
+  opacity             : 0.5;
+  position            : absolute;
+  text-align          : center;
+  top                 : 54px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .testimonial1-SiGx03 .bg01-pSNiTp .bg1-6nmRsz {
+  background-color    : rgba(117,78,249,0);
+  height              : 411px;
+  left                : 228px;
+  position            : absolute;
+  top                 : 220px;
+  transform           : rotate(0deg);
+  width               : 910px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .testimonial1-SiGx03 .bg01-pSNiTp .bg2-7UzemV {
+  background-color    : rgba(255,255,255,0);
+  height              : 393px;
+  left                : 282px;
+  position            : absolute;
+  top                 : 226px;
+  transform           : rotate(0deg);
+  width               : 805px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .footer0-ZGWAgS .footer1-U0u37T .logo2-G6yUeA {
+  align-items         : flex-end;
+  align-self          : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 41px;
+  justify-content     : flex-start;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .footer0-ZGWAgS .footer1-U0u37T .logo2-G6yUeA .portfolio0-cMA1Ng {
+  background-color    : rgba(255,255,255,0);
+  color               : var(--auto-palette-color-1);
+  flex-shrink         : 0;
+  font-family         : Trebuchet MS, Helvetica, Arial, serif;
+  font-size           : 35.0px;
+  font-style          : normal;
+  font-weight         : 700;
+  height              : auto;
+  letter-spacing      : 0.00px;
+  line-height         : 35.0px;
+  margin-bottom       : -5.0px;
+  min-height          : 43px;
+  min-width           : 153px;
+  position            : relative;
+  text-align          : left;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .footer0-ZGWAgS .footer1-U0u37T .sosial-icon3-5Upv7k {
+  align-items         : flex-end;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 23px;
+  justify-content     : flex-start;
+  margin-bottom       : 6.8px;
+  margin-left         : 257px;
+  min-width           : 115px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .footer0-ZGWAgS .footer1-U0u37T .sosial-icon3-5Upv7k .facebook-icon0-UbhQzM {
+  align-items         : flex-start;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  flex-shrink         : 0;
+  height              : 19px;
+  justify-content     : flex-start;
+  margin-bottom       : -0.0px;
+  margin-left         : 0px;
+  padding             : 0 0.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .footer0-ZGWAgS .footer1-U0u37T .sosial-icon3-5Upv7k .facebook-icon0-UbhQzM .f10-u24fzF {
+  background-color    : rgba(255,255,255,0);
+  flex-shrink         : 0;
+  height              : 19px;
+  margin-top          : -0.0px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 10px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .testimonial1-SiGx03 .text2-nlkzUp .jhon-wick-new-york1-MNL6iu {
+  background-color    : rgba(32,32,32,0);
+  color               : var(--auto-palette-color-2);
+  flex-shrink         : 0;
+  font-size           : 18.0px;
+  height              : auto;
+  line-height         : 20.0px;
+  margin-right        : 1.0px;
+  min-height          : 26px;
+  min-width           : 184px;
+  position            : relative;
+  text-align          : center;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .testimonial1-SiGx03 .image3-2hzV6N {
+  background-color    : rgba(255,255,255,0);
+  height              : 138px;
+  left                : 614px;
+  position            : absolute;
+  top                 : 264px;
+  transform           : rotate(0deg);
+  width               : 138px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .testimonial1-SiGx03 .image3-2hzV6N .mask-group12-ycsqfO .hot-men-hairstyles20170-AcpHcY {
+  background-color    : rgba(255,255,255,0);
+  height              : 146px;
+  left                : -25px;
+  position            : absolute;
+  top                 : -5px;
+  width               : 122px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .testimonial1-SiGx03 .image3-2hzV6N .mask-group12-ycsqfO {
+  background-color    : rgba(255,255,255,0);
+  height              : 96px;
+  left                : 21px;
+  position            : absolute;
+  top                 : 21px;
+  transform           : rotate(0deg);
+  width               : 96px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .testimonial1-SiGx03 .image3-2hzV6N .path1471-mW5lJS {
+  background-color    : rgba(117,78,249,0);
+  height              : 114px;
+  left                : 12px;
+  position            : absolute;
+  top                 : 12px;
+  transform           : rotate(0deg);
+  width               : 114px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .testimonial1-SiGx03 .image3-2hzV6N .mask-group12-ycsqfO .ellipse31-REvwz3 {
+  background-color    : rgba(255,255,255,0);
+  height              : 96px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  width               : 96px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .testimonial1-SiGx03 .slider-dut4-d0sdHX .slider-dot0-UupLrE {
+  background-color    : rgba(117,78,249,0);
+  flex-shrink         : 0;
+  height              : 13px;
+  margin-left         : 10px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 13px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .testimonial1-SiGx03 .slider-dut4-d0sdHX {
+  align-items         : center;
+  background-color    : rgba(255,255,255,0);
+  box-sizing          : border-box;
+  display             : inline-flex;
+  flex-direction      : row;
+  height              : 13px;
+  justify-content     : flex-start;
+  left                : 656px;
+  position            : absolute;
+  top                 : 659px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .testimonial1-SiGx03 .slider-dut4-d0sdHX .slider-dut2-l2LSU9 {
+  background-color    : rgba(117,78,249,0);
+  flex-shrink         : 0;
+  height              : 11px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 11px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .testimonial1-SiGx03 .slider-dut4-d0sdHX .slider-dot1-IhiQ5X {
+  background-color    : rgba(117,78,249,0);
+  flex-shrink         : 0;
+  height              : 11px;
+  margin-left         : 10px;
+  position            : relative;
+  transform           : rotate(0deg);
+  width               : 11px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .portfolio2-S3Xsio .path1470-squTHH {
+  background-color    : rgba(117,78,249,0);
+  height              : 1503px;
+  left                : -139px;
+  position            : absolute;
+  top                 : -96px;
+  transform           : rotate(0deg);
+  width               : 1366px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .portfolio2-S3Xsio {
+  background-color    : rgba(255,255,255,0);
+  height              : 1224px;
+  left                : 139px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 1088px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .portfolio2-S3Xsio .web-app2-rSw42N {
+  background-color    : rgba(51,51,51,0);
+  color               : rgba(51,51,51,1.0);
+  font-size           : 18.0px;
+  height              : auto;
+  left                : 497px;
+  line-height         : 24.0px;
+  opacity             : 0.5;
+  position            : absolute;
+  text-align          : center;
+  top                 : 52px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .portfolio2-S3Xsio .my-portfolio1-YRJrIO {
+  background-color    : rgba(51,51,51,0);
+  color               : rgba(51,51,51,1.0);
+  font-size           : 35.0px;
+  height              : auto;
+  left                : 444px;
+  line-height         : 24.0px;
+  position            : absolute;
+  text-align          : center;
+  top                 : 12px;
+  transform           : rotate(0deg);
+  width               : auto;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .portfolio2-S3Xsio .mask-group46-8OHVE2 .image03-z6DoQf {
+  background-color    : rgba(255,255,255,0);
+  height              : 366px;
+  left                : -7px;
+  position            : absolute;
+  top                 : -7px;
+  width               : 366px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .portfolio2-S3Xsio .mask-group46-8OHVE2 {
+  background-color    : rgba(255,255,255,0);
+  height              : 352px;
+  left                : 736px;
+  position            : absolute;
+  top                 : 504px;
+  transform           : rotate(0deg);
+  width               : 352px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .portfolio2-S3Xsio .mask-group24-ZTeCsc {
+  background-color    : rgba(255,255,255,0);
+  height              : 352px;
+  left                : 368px;
+  position            : absolute;
+  top                 : 136px;
+  transform           : rotate(0deg);
+  width               : 352px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .portfolio2-S3Xsio .mask-group24-ZTeCsc .rectangle71-pBZEvY {
+  background-color    : var(--auto-palette-color-3);
+  height              : 352px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 352px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .portfolio2-S3Xsio .mask-group35-NHWGzw .image02-8W2ngC {
+  background-color    : rgba(255,255,255,0);
+  height              : 372px;
+  left                : -10px;
+  position            : absolute;
+  top                 : -10px;
+  width               : 372px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .portfolio2-S3Xsio .mask-group35-NHWGzw .rectangle81-zjTYo8 {
+  background-color    : var(--auto-palette-color-3);
+  height              : 352px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 352px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .portfolio2-S3Xsio .mask-group24-ZTeCsc .image01-InAFcs {
+  background-color    : rgba(255,255,255,0);
+  height              : 368px;
+  left                : -8px;
+  position            : absolute;
+  top                 : -8px;
+  width               : 368px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .portfolio2-S3Xsio .mask-group13-NC4KDp .image0-zGYpiU {
+  background-color    : rgba(255,255,255,0);
+  height              : 384px;
+  left                : -16px;
+  position            : absolute;
+  top                 : -22px;
+  width               : 384px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .portfolio2-S3Xsio .mask-group13-NC4KDp .rectangle61-IleI1M {
+  background-color    : var(--auto-palette-color-3);
+  height              : 352px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 0px;
+  transform           : rotate(0deg);
+  width               : 352px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .portfolio2-S3Xsio .mask-group35-NHWGzw {
+  background-color    : rgba(255,255,255,0);
+  height              : 352px;
+  left                : 736px;
+  position            : absolute;
+  top                 : 136px;
+  transform           : rotate(0deg);
+  width               : 352px;
+}
+.custom-size1-aAgWc4 .overlap-group-zgjvNH .portfolio2-S3Xsio .mask-group13-NC4KDp {
+  background-color    : rgba(255,255,255,0);
+  height              : 352px;
+  left                : 0px;
+  position            : absolute;
+  top                 : 136px;
+  transform           : rotate(0deg);
+  width               : 352px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  animation-delay     : 0s;
+}
+@keyframes anima-reveal {
+  from {
+    opacity             : 0;
+  }
+  to {
+    opacity             : 1;
+  }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-component-wrapper a,
+.anima-screen a {
+  text-decoration     : none;
+}
+.anima-flexbox-container a {
+  line-height         : 0;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+.anima-screen textarea:focus,
+.anima-screen input:focus {
+  outline             : none;
+}
+.anima-screen div {
+  -webkit-text-size-adjust: none;
+}
+.anima-container-center-vertical,
+.anima-container-center-horizontal {
+  pointer-events      : none;
+  display             : flex;
+  flex-direction      : row;
+  padding             : 0;
+  margin              : 0;
+}
+.anima-container-center-vertical {
+  align-items         : center;
+  height              : 100%;
+}
+.anima-container-center-horizontal {
+  justify-content     : center;
+  width               : 100%;
+}
+.anima-container-center-vertical > *,
+.anima-container-center-horizontal > * {
+  pointer-events      : auto;
+  flex-shrink         : 0;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
