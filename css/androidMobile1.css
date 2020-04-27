@@ -1,0 +1,1448 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:400|Segoe+UI:400|Open+Sans:600,400,300|Arial:400|Trebuchet+MS:700,400');
+
+
+.androidmobile1 {
+  width               : 100%;
+  min-width           : 360px;
+  height              : 100vh;
+  min-height          : 4029px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.androidmobile1 .group120 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -136px;
+  height              : 201px;
+  width               : 360px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .group120 .component410 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 201px;
+  width               : 360px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .group120 .component410 .rectangle160 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 201px;
+  width               : 360px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .group120 .component410 .component111 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : 53px;
+  width               : 347px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .group120 .component410 .component111 .rectangle170 {
+  background-color    : rgba(117, 78, 249, 1.0);
+  top                 : 0px;
+  height              : 53px;
+  width               : 347px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .group120 .component410 .component212 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 73px;
+  height              : 53px;
+  width               : 347px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .group120 .component410 .component212 .rectangle180 {
+  background-color    : rgba(117, 78, 249, 1.0);
+  top                 : 0px;
+  height              : 53px;
+  width               : 347px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .group120 .component410 .component313 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 141px;
+  height              : 53px;
+  width               : 347px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .group120 .component410 .component313 .rectangle190 {
+  background-color    : rgba(117, 78, 249, 1.0);
+  top                 : 0px;
+  height              : 53px;
+  width               : 347px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .group120 .component410 .aboutme4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 143px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Open Sans Light", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.androidmobile1 .group120 .component410 .portfolio5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 91px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 140px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Open Sans Light", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.androidmobile1 .group120 .component410 .downloadcv6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 158px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 126px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Open Sans Light", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.androidmobile1 .bg12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 718px;
+  width               : 362px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transition          : all 0.2s ease;
+}
+.androidmobile1 .bg12 {
+  pointer-events      : auto;
+}
+.androidmobile1 .bg12:hover {
+  transform           : scale(0.9);
+}
+.androidmobile1 .bg22 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 65px;
+  height              : 670px;
+  width               : 360px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .portfolio3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : 39px;
+  width               : 108px;
+  position            : absolute;
+  margin              : 0;
+  left                : 132px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Segoe UI", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.androidmobile1 .iconawesomeangledoubledown4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 18px;
+  height              : 28px;
+  width               : 23px;
+  position            : fixed;
+  margin              : 0;
+  left                : 322px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .iconawesomeangledoubledown4 .iconawesomeangledoubledown0 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 28px;
+  width               : 23px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .iconawesomeangledoubledown4 .iconawesomeangledoubledown0 .iconawesomeangledoubledown01 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 28px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : -0px;
+  transform           : rotate(0deg);
+}
+.androidmobile1 .image5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 85px;
+  height              : 293px;
+  width               : 293px;
+  position            : absolute;
+  margin              : 0;
+  left                : 37px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .image5 .group103 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 293px;
+  width               : 293px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .image5 .group103 .path801 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 293px;
+  width               : 293px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+}
+.androidmobile1 .image5 .group103 .path511 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5px;
+  height              : 282px;
+  width               : 282px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+}
+.androidmobile1 .image5 .imageandtext11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 46px;
+  height              : 201px;
+  width               : 201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 43px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .image5 .imageandtext11 .image09 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 201px;
+  width               : 201px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .image5 .imageandtext11 .image09 .path201 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 201px;
+  width               : 201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+}
+.androidmobile1 .image5 .imageandtext11 .image09 .path311 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -24px;
+  height              : 249px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : -24px;
+  transform           : rotate(0deg);
+}
+.androidmobile1 .image5 .imageandtext11 .image09 .maskgroup122 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : 175px;
+  width               : 175px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  transform           : rotate(0deg);
+}
+.androidmobile1 .image5 .imageandtext11 .image09 .maskgroup122 .a19featureledew512h6002x01 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -4px;
+  height              : 342px;
+  width               : 292px;
+  position            : absolute;
+  margin              : 0;
+  left                : -64px;
+}
+.androidmobile1 .image5 .imageandtext11 .image09 .maskgroup122 .rectangle311 {
+  background-color    : rgba(117, 78, 249, 1.0);
+  top                 : 0px;
+  height              : 175px;
+  width               : 175px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 200px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .text6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 409px;
+  height              : 74px;
+  width               : 230px;
+  position            : absolute;
+  margin              : 0;
+  left                : 65px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .text6 .rectangle501 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 25px;
+  width               : 167px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  transform           : rotate(0deg);
+}
+.androidmobile1 .text6 .mywork1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 59px;
+  width               : 228px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+}
+.androidmobile1 .text6 .webvisualdesigner21 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 60px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 45px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(16, 16, 16, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.12px;
+  line-height         : 12.0px;
+}
+.androidmobile1 .text6 .path431 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 26px;
+  height              : 7px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 130px;
+  transform           : rotate(0deg);
+}
+.androidmobile1 .whatigiveyou7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 522px;
+  height              : 402px;
+  width               : 787px;
+  position            : absolute;
+  margin              : 0;
+  left                : -214px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .whatigiveyou7 .group901 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 401px;
+  width               : 254px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .whatigiveyou7 .group901 .rectangle102 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -18px;
+  height              : 446px;
+  width               : 299px;
+  position            : absolute;
+  margin              : 0;
+  left                : -22px;
+  transform           : rotate(0deg);
+}
+.androidmobile1 .whatigiveyou7 .group901 .stopwatch11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 61px;
+  height              : 52px;
+  width               : 52px;
+  position            : absolute;
+  margin              : 0;
+  left                : 101px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .whatigiveyou7 .group901 .stopwatch11 .ellipse101 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -0px;
+  height              : 51px;
+  width               : 50px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  transform           : rotate(0deg);
+}
+.androidmobile1 .whatigiveyou7 .group901 .stopwatch11 .path14311 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 52px;
+  width               : 52px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+}
+.androidmobile1 .whatigiveyou7 .group901 .stopwatch11 .path14421 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 18px;
+  height              : 12px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 17px;
+  transform           : rotate(0deg);
+}
+.androidmobile1 .whatigiveyou7 .group901 .group321 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 156px;
+  height              : 92px;
+  width               : 131px;
+  position            : absolute;
+  margin              : 0;
+  left                : 62px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .whatigiveyou7 .group901 .group321 .ontime01 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 41px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto Condensed", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 15.0px;
+  color               : rgba(32, 32, 32, 1.0);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.androidmobile1 .whatigiveyou7 .group901 .group321 .alliwanttohaveclientsetisfactionthisismyaim13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 31px;
+  height              : 59px;
+  width               : 131px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+  font-family         : "Open Sans Light", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(32, 32, 32, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.androidmobile1 .whatigiveyou7 .group901 .button31 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 315px;
+  height              : 27px;
+  width               : 105px;
+  position            : absolute;
+  margin              : 0;
+  left                : 74px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .whatigiveyou7 .group901 .button31 .button07 {
+  background-color    : rgba(117, 78, 249, 1.0);
+  top                 : 0px;
+  height              : 27px;
+  width               : 105px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .whatigiveyou7 .group901 .button31 .learnmore13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 31px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto Condensed", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 9.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 9.0px;
+}
+.androidmobile1 .whatigiveyou7 .group1011 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -0px;
+  height              : 402px;
+  width               : 254px;
+  position            : absolute;
+  margin              : 0;
+  left                : 267px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .whatigiveyou7 .group1011 .rectangle201 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -18px;
+  height              : 447px;
+  width               : 299px;
+  position            : absolute;
+  margin              : 0;
+  left                : -22px;
+  transform           : rotate(0deg);
+}
+.androidmobile1 .whatigiveyou7 .group1011 .safebox11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 66px;
+  height              : 49px;
+  width               : 49px;
+  position            : absolute;
+  margin              : 0;
+  left                : 102px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .whatigiveyou7 .group1011 .safebox11 .group601 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 49px;
+  width               : 49px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .whatigiveyou7 .group1011 .safebox11 .group601 .group501 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 49px;
+  width               : 49px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .whatigiveyou7 .group1011 .safebox11 .group601 .group501 .path14501 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -0px;
+  height              : 49px;
+  width               : 49px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+}
+.androidmobile1 .whatigiveyou7 .group1011 .safebox11 .group601 .group501 .path14611 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : 31px;
+  width               : 31px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  transform           : rotate(0deg);
+}
+.androidmobile1 .whatigiveyou7 .group1011 .button23 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 316px;
+  height              : 27px;
+  width               : 105px;
+  position            : absolute;
+  margin              : 0;
+  left                : 74px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .whatigiveyou7 .group1011 .button23 .button08 {
+  background-color    : rgba(117, 78, 249, 1.0);
+  top                 : 0px;
+  height              : 27px;
+  width               : 105px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .whatigiveyou7 .group1011 .button23 .learnmore14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 31px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto Condensed", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 9.0px;
+  color               : rgba(245, 245, 245, 1.0);
+  text-align          : left;
+  line-height         : 9.0px;
+}
+.androidmobile1 .whatigiveyou7 .group1011 .text32 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 156px;
+  height              : 99px;
+  width               : 131px;
+  position            : absolute;
+  margin              : 0;
+  left                : 62px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .whatigiveyou7 .group1011 .text32 .cleanwork01 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 31px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto Condensed", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 15.0px;
+  color               : rgba(32, 32, 32, 1.0);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.androidmobile1 .whatigiveyou7 .group1011 .text32 .alliwanttohaveclientsetisfactionthisismyaim14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : 66px;
+  width               : 131px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+  font-family         : "Open Sans Light", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(32, 32, 32, 1.0);
+  text-align          : center;
+  line-height         : 24.0px;
+}
+.androidmobile1 .whatigiveyou7 .group1121 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 401px;
+  width               : 254px;
+  position            : absolute;
+  margin              : 0;
+  left                : 533px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .whatigiveyou7 .group1121 .bg04 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -18px;
+  height              : 446px;
+  width               : 299px;
+  position            : absolute;
+  margin              : 0;
+  left                : -22px;
+  transform           : rotate(0deg);
+}
+.androidmobile1 .whatigiveyou7 .group1121 .icon11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 69px;
+  height              : 45px;
+  width               : 47px;
+  position            : absolute;
+  margin              : 0;
+  left                : 103px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .whatigiveyou7 .group1121 .icon11 .path501 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 45px;
+  width               : 47px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+}
+.androidmobile1 .whatigiveyou7 .group1121 .icon11 .path11311 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : 32px;
+  width               : 31px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  transform           : rotate(0deg);
+}
+.androidmobile1 .whatigiveyou7 .group1121 .icon11 .path11421 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : 25px;
+  width               : 10px;
+  position            : absolute;
+  margin              : 0;
+  left                : 33px;
+  transform           : rotate(0deg);
+}
+.androidmobile1 .whatigiveyou7 .group1121 .icon11 .path13731 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : 13px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  transform           : rotate(0deg);
+}
+.androidmobile1 .whatigiveyou7 .group1121 .button24 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 315px;
+  height              : 27px;
+  width               : 105px;
+  position            : absolute;
+  margin              : 0;
+  left                : 75px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .whatigiveyou7 .group1121 .button24 .button09 {
+  background-color    : rgba(117, 78, 249, 1.0);
+  top                 : 0px;
+  height              : 27px;
+  width               : 105px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .whatigiveyou7 .group1121 .button24 .learnmore15 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 31px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto Condensed", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 9.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 9.0px;
+}
+.androidmobile1 .whatigiveyou7 .group1121 .text33 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 154px;
+  height              : 94px;
+  width               : 131px;
+  position            : absolute;
+  margin              : 0;
+  left                : 63px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .whatigiveyou7 .group1121 .text33 .clientsetisfaction01 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto Condensed", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 15.0px;
+  color               : rgba(32, 32, 32, 1.0);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.androidmobile1 .whatigiveyou7 .group1121 .text33 .alliwanttohaveclientsetisfactionthisismyaim15 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : 61px;
+  width               : 131px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+  font-family         : "Open Sans Light", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(32, 32, 32, 1.0);
+  text-align          : center;
+  line-height         : 24.0px;
+}
+.androidmobile1 .portfolio8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 955px;
+  height              : 1224px;
+  width               : 360px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .portfolio8 .path14701 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -96px;
+  height              : 1503px;
+  width               : 167px;
+  position            : absolute;
+  margin              : 0;
+  left                : 96px;
+  transform           : rotate(0deg);
+}
+.androidmobile1 .portfolio8 .myportfolio11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 35.0px;
+  color               : rgba(51, 51, 51, 1.0);
+  text-align          : center;
+  line-height         : 24.0px;
+}
+.androidmobile1 .portfolio8 .webapp21 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 133px;
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(51, 51, 51, 1.0);
+  text-align          : center;
+  line-height         : 24.0px;
+}
+.androidmobile1 .portfolio8 .maskgroup131 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 136px;
+  height              : 352px;
+  width               : 352px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  transform           : rotate(0deg);
+}
+.androidmobile1 .portfolio8 .maskgroup131 .image010 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -22px;
+  height              : 384px;
+  width               : 384px;
+  position            : absolute;
+  margin              : 0;
+  left                : -16px;
+}
+.androidmobile1 .portfolio8 .maskgroup131 .rectangle611 {
+  background-color    : rgba(239, 239, 239, 1.0);
+  top                 : 0px;
+  height              : 352px;
+  width               : 352px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .portfolio8 .maskgroup241 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 136px;
+  height              : 352px;
+  width               : 352px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  transform           : rotate(0deg);
+}
+.androidmobile1 .portfolio8 .maskgroup241 .image011 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -8px;
+  height              : 368px;
+  width               : 368px;
+  position            : absolute;
+  margin              : 0;
+  left                : -8px;
+}
+.androidmobile1 .portfolio8 .maskgroup241 .rectangle711 {
+  background-color    : rgba(239, 239, 239, 1.0);
+  top                 : 0px;
+  height              : 352px;
+  width               : 352px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .portfolio8 .maskgroup351 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 136px;
+  height              : 352px;
+  width               : 352px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  transform           : rotate(0deg);
+}
+.androidmobile1 .portfolio8 .maskgroup351 .image012 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -10px;
+  height              : 372px;
+  width               : 372px;
+  position            : absolute;
+  margin              : 0;
+  left                : -10px;
+}
+.androidmobile1 .portfolio8 .maskgroup351 .rectangle811 {
+  background-color    : rgba(239, 239, 239, 1.0);
+  top                 : 0px;
+  height              : 352px;
+  width               : 352px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .portfolio8 .maskgroup461 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 504px;
+  height              : 352px;
+  width               : 352px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  transform           : rotate(0deg);
+}
+.androidmobile1 .portfolio8 .maskgroup461 .image013 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -7px;
+  height              : 366px;
+  width               : 366px;
+  position            : absolute;
+  margin              : 0;
+  left                : -7px;
+}
+.androidmobile1 .portfolio8 .maskgroup461 .rectangle1011 {
+  background-color    : rgba(239, 239, 239, 1.0);
+  top                 : 0px;
+  height              : 352px;
+  width               : 352px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .portfolio8 .maskgroup571 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 872px;
+  height              : 352px;
+  width               : 352px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  transform           : rotate(0deg);
+}
+.androidmobile1 .portfolio8 .maskgroup571 .image014 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -10px;
+  height              : 372px;
+  width               : 372px;
+  position            : absolute;
+  margin              : 0;
+  left                : -10px;
+}
+.androidmobile1 .portfolio8 .maskgroup571 .rectangle1111 {
+  background-color    : rgba(239, 239, 239, 1.0);
+  top                 : 0px;
+  height              : 352px;
+  width               : 352px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .portfolio8 .maskgroup681 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 872px;
+  height              : 352px;
+  width               : 352px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  transform           : rotate(0deg);
+}
+.androidmobile1 .portfolio8 .maskgroup681 .image015 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -8px;
+  height              : 368px;
+  width               : 368px;
+  position            : absolute;
+  margin              : 0;
+  left                : -8px;
+}
+.androidmobile1 .portfolio8 .maskgroup681 .rectangle1211 {
+  background-color    : rgba(239, 239, 239, 1.0);
+  top                 : 0px;
+  height              : 352px;
+  width               : 352px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .portfolio8 .maskgroup791 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 872px;
+  height              : 352px;
+  width               : 352px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  transform           : rotate(0deg);
+}
+.androidmobile1 .portfolio8 .maskgroup791 .image016 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -8px;
+  height              : 368px;
+  width               : 368px;
+  position            : absolute;
+  margin              : 0;
+  left                : -8px;
+}
+.androidmobile1 .portfolio8 .maskgroup791 .rectangle1311 {
+  background-color    : rgba(239, 239, 239, 1.0);
+  top                 : 0px;
+  height              : 352px;
+  width               : 352px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .portfolio8 .maskgroup8101 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 504px;
+  height              : 352px;
+  width               : 359px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  transform           : rotate(0deg);
+}
+.androidmobile1 .portfolio8 .maskgroup8101 .image017 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -39px;
+  height              : 226px;
+  width               : 377px;
+  position            : absolute;
+  margin              : 0;
+  left                : -5px;
+}
+.androidmobile1 .portfolio8 .maskgroup8101 .rectangle911 {
+  background-color    : rgba(239, 239, 239, 1.0);
+  top                 : 0px;
+  height              : 352px;
+  width               : 359px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .portfolio8 .hover111 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 504px;
+  height              : 352px;
+  width               : 360px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+}
+.androidmobile1 .portfolio8 .portfolio121 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 608px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 113px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Trebuchet MS", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 35.0px;
+  color               : rgba(243, 243, 243, 1.0);
+  text-align          : center;
+  line-height         : 24.0px;
+}
+.androidmobile1 .portfolio8 .expand131 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 816px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 175px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .portfolio8 .expand131 .group104 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 24px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.androidmobile1 .portfolio8 .expand131 .group104 .path14301 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+}
+.androidmobile1 .portfolio8 .expand131 .group104 .path14411 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  transform           : rotate(0deg);
+}
+.androidmobile1 .portfolio8 .expand131 .group104 .path14521 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  transform           : rotate(0deg);
+}
+.androidmobile1 .portfolio8 .fullview141 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 822px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 162px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 11.0px;
+  color               : rgba(243, 243, 243, 1.0);
+  text-align          : center;
+  line-height         : 24.0px;
+}
+.androidmobile1 .portfolio8 .writingparagraphstakespracticebutwhatshouldstudentswriteaboutgoodparagraphwritingpromptsallowstudentstowriteaboutwhattheyknowandlikesotheirfocuscanbeonthewritingprocessandusingthefouressentialelements151 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 648px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 35px;
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+  font-family         : "Open Sans", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 9.0px;
+  color               : rgba(243, 243, 243, 1.0);
+  text-align          : center;
+  letter-spacing      : 0.09px;
+  line-height         : 14.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}

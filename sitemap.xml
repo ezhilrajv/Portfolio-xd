@@ -6,13 +6,18 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>http://holy-star-3368.animaapp.io/</loc>
-  <lastmod>2020-04-25</lastmod>
+  <loc>http://green-glade-6536.animaapp.io/</loc>
+  <lastmod>2020-04-27</lastmod>
 </url>
 
 <url>
-  <loc>http://holy-star-3368.animaapp.io/custom-size1</loc>
-  <lastmod>2020-04-25</lastmod>
+  <loc>http://green-glade-6536.animaapp.io/customsize1</loc>
+  <lastmod>2020-04-27</lastmod>
+</url>
+
+<url>
+  <loc>http://green-glade-6536.animaapp.io/androidmobile1</loc>
+  <lastmod>2020-04-27</lastmod>
 </url>
 
 </urlset>
